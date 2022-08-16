@@ -49,7 +49,7 @@ t.end_fill()
 t.penup()
 t.goto(-27,-4)
 t.pendown()
-t,color("navy")
+t.color("navy")
 
 for i in range (24):
     t.begin_fill()
